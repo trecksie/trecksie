@@ -1,4 +1,4 @@
-### Hi there, I am Trazy Amolly Nyabute, commonly known as Trecksie for you who loves long text and TANfor you who prefers short texts. I do web, desktop & mobile dev 👋
+### Hi there, I am Trazy Amolly Nyabute, commonly known as Trecksie for you who loves long text and TAN for you who prefers short texts. I do web, desktop & mobile dev 👋
 
 
 - 🔭 I’m currently working as a software developer
